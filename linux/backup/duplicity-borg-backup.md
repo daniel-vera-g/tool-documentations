@@ -1,3 +1,11 @@
+---
+title: Backups
+authors: Daniel VG
+left-header: Backups
+right-header: \today
+lang: en-GB
+---
+
 # Backup
 
 > <https://wiki.ubuntuusers.de/Datensicherung/>
