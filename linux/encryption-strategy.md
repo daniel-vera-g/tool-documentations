@@ -1,12 +1,12 @@
 ---
 title: Linux encryption strategy
-authors: Daniel Vera Gilliard
+authors: Daniel VG
 left-header: Encryption plan
 right-header: \today
 lang: en_GB
 ---
 
-> https://curius.de/blog/13-betriebssysteme/open-source/324-welche-verschluesselungsloesung-fuer-welchen-einsatzzweck
+> <https://curius.de/blog/13-betriebssysteme/open-source/324-welche-verschluesselungsloesung-fuer-welchen-einsatzzweck>
 
 # Single files or directories to encrypt
 
@@ -16,23 +16,23 @@ lang: en_GB
 
 > Use veracrypt encrypted volumes
 
-https://tails.boum.org/doc/encryption_and_privacy/veracrypt/index.en.html
-https://www.veracrypt.fr/en/Command%20Line%20Usage.html
-https://kifarunix.com/how-to-use-veracrypt-on-command-line-to-encrypt-drives-on-ubuntu-18-04/
+<https://tails.boum.org/doc/encryption_and_privacy/veracrypt/index.en.html>
+<https://www.veracrypt.fr/en/Command%20Line%20Usage.html>
+<https://kifarunix.com/how-to-use-veracrypt-on-command-line-to-encrypt-drives-on-ubuntu-18-04/>
 
 # Cloud storage
 
 > Use Cryptomator
 
-https://curius.de/verschluesselung/cryptomator
-https://cryptomator.org/
-https://www.fosslinux.com/3081/how-to-encrypt-your-files-in-cloud-using-cryptomator-for-linux.htm
-https://cryptomator.org/
-https://github.com/cryptomator/cli
+<https://curius.de/verschluesselung/cryptomator>
+<https://cryptomator.org/>
+<https://www.fosslinux.com/3081/how-to-encrypt-your-files-in-cloud-using-cryptomator-for-linux.htm>
+<https://cryptomator.org/>
+<https://github.com/cryptomator/cli>
 
 # Full disk encryption
 
-TODO
+> TODO
 
 https://www.linuxuprising.com/2018/04/how-to-encrypt-home-folder-in-ubuntu.html | ²How To Encrypt The Home Folder In Ubuntu 18.04 Or 19.04 - Linux Uprising Blog
 https://help.ubuntu.com/community/ManualFullSystemEncryption | ³ManualFullSystemEncryption - Community Help Wiki
@@ -59,8 +59,7 @@ https://wiki.ubuntuusers.de/LUKS/Containerdatei/ | Containerdatei › LUKS › W
 
 > Use Clonezilla
 
-https://www.pcwelt.de/a/backup-und-klonen-mit-clonezilla,2103167
-https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/01_Save_disk_image
-http://wiki.ubuntu-forum.de/index.php?title=Clonezilla
-https://www.giga.de/downloads/ubuntu-os/tipps/ubuntu-image-backup-erstellen-und-wiederherstellen-so-geht-s/
-
+<https://www.pcwelt.de/a/backup-und-klonen-mit-clonezilla,2103167>
+<https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/01_Save_disk_image>
+<http://wiki.ubuntu-forum.de/index.php?title=Clonezilla>
+<https://www.giga.de/downloads/ubuntu-os/tipps/ubuntu-image-backup-erstellen-und-wiederherstellen-so-geht-s/>
