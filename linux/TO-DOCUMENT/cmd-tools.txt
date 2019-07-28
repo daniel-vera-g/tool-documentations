@@ -6,6 +6,3 @@ sed -> filter & transform text
 test -> check file types and compare values
 xargs -> build & execute commands from standart input
 | -> chain processes
-
-
-workign terminal: https://stackoverflow.com/questions/9679776/how-do-i-clear-delete-the-current-line-in-terminal
