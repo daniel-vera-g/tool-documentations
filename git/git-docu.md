@@ -1,3 +1,11 @@
+---
+title: Git docuementation
+authors: Daniel VG
+left-header: Git
+right-header: \today
+lang: en-GB
+---
+
 # Head
 
 > HEAD points to your current branch (or current commit), so all that git reset --hard HEAD will do is to throw away any uncommitted changes you have.
