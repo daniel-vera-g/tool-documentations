@@ -1,6 +1,6 @@
 ---
 title: Vim learnings
-authors: Daniel Vera Gilliard
+authors: Daniel VG
 left-header: Vim
 right-header: \today
 lang: en

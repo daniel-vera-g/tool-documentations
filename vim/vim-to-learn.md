@@ -1,12 +1,22 @@
+---
+title: Vim to learn
+authors: Daniel VG
+left-header: Vim
+right-header: \today
+lang: en-GB
+---
+
 # Vim to learn
 
 > Create cheat sheet(Terminal, Vim...) & every week learn new commands & integrate it in workflow = Each week a lesson to integrate
 
-## Week 12.11.18 - 18.11.18
 
-* Find and replace: http://vim.wikia.com/wiki/Search_and_replace
+## Find and replace
+
 * Autocomplete -> Ctrl + N
 * Multicursor -> Ctrl + V => Select => I => Insert charcter => Esc
+
+* <http://vim.wikia.com/wiki/Search_and_replace>
 
 ## Registers
 
