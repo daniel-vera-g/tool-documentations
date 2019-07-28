@@ -1,6 +1,6 @@
 # Backup
 
-> https://wiki.ubuntuusers.de/Datensicherung/
+> <https://wiki.ubuntuusers.de/Datensicherung/>
 
 ## Duplicity TODO
 
@@ -13,7 +13,7 @@ https://serverfault.com/questions/806505/why-does-duplicity-need-a-passphrase-fo
 
 ## Borg
 
-> https://borgbackup.readthedocs.io/en/stable/
+> <https://borgbackup.readthedocs.io/en/stable/>
 
 Encryption through:
 
@@ -24,7 +24,7 @@ Backup is stored in repositories in archives.
 
 ## Init repository
 
-> Mit keyfile und blake2 algorithmus(Key stored in ~/.config/blake/)
+> With keyfile and blake2 algorithm(Key stored in ~/.config/blake/)
 
 `borg init -e keyfile-blake2 REPO`
 
@@ -37,10 +37,10 @@ Backup is stored in repositories in archives.
 1. Go to the path to restore
 2. `borg extract --list /path/to/repo::my-files`
 
-## Other Borg ressources
+## Other Borg resources
 
-1. https://asciinema.org/a/133292
-2. https://github.com/borgbackup/borg
-3. https://wiki.ubuntuusers.de/BorgBackup/
-4. https://wiki.hetzner.de/index.php/BorgBackup
-5. https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script
+1. <https://asciinema.org/a/133292>
+2. <https://github.com/borgbackup/borg>
+3. <https://wiki.ubuntuusers.de/BorgBackup/>
+4. <https://wiki.hetzner.de/index.php/BorgBackup>
+5. <https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script>
