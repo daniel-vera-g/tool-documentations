@@ -1,0 +1,9 @@
+Ctrl+Left and Ctrl+Right: Hitting Ctrl and the left or right arrow keys jumps between arguments in your command.
+
+Ctrl+U: This clears the entire line 
+
+Ctrl+K: This deletes the line from the position of the cursor to the end of the line
+
+Ctrl+R: This lets you search your command history for something specific. 
+
+https://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts
