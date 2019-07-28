@@ -1,12 +1,10 @@
 ---
 title: Latex writing workflow
-authors: Daniel Vera Gilliard
+authors: Daniel VG
 left-header: Latex writing
 right-header: \today
 lang: en-GB
 ---
-
-# Latex work flow
 
 ## Tools
 
@@ -187,7 +185,6 @@ See vim specific documentation file for further spelling and grammar related too
 * <https://gist.githubusercontent.com/gillescastel/8da990dbc83c1c86f8ca048bc83624f0/raw/442ae72c3c92295bf9afc6d038ed76d79e655b7a/Ultisnip%2520snippets>
 
 ### Vim as latex editor
-
 
 * <https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/#fn:>
 * <https://tex.stackexchange.com/questions/474765/are-there-any-alternatives-to-vim-latex>
