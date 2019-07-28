@@ -1,12 +1,10 @@
-# Git tipps
-
-## Head
+# Head
 
 > HEAD points to your current branch (or current commit), so all that git reset --hard HEAD will do is to throw away any uncommitted changes you have.
 
-https://stackoverflow.com/questions/2304087/what-is-head-in-git
+<https://stackoverflow.com/questions/2304087/what-is-head-in-git>
 
-## Revert commit back
+# Revert commit back
 
 1. Change your current branch to point to the older commit instead. You could do that with git reset --hard f414f31. However, this is rewriting the history of your branch, so you should avoid it if you've shared this branch with anyone. Also, the commits you did after f414f31 will no longer be in the history of your master branch.
 2. Create a new commit that represents exactly the same state of the project as f414f31, but just adds that on to the history, so you don't lose any history:
@@ -17,27 +15,27 @@ git reset --soft HEAD@{1}
 git commit -m "Reverting to the state of the project at f414f31"
 ```
 
-https://stackoverflow.com/questions/9529078/how-do-i-use-git-reset-hard-head-to-revert-to-a-previous-commit
-https://stackoverflow.com/questions/1895059/revert-to-a-commit-by-a-sha-hash-in-git/1895095#1895095
-https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/
+<https://stackoverflow.com/questions/9529078/how-do-i-use-git-reset-hard-head-to-revert-to-a-previous-commit>
+<https://stackoverflow.com/questions/1895059/revert-to-a-commit-by-a-sha-hash-in-git/1895095#1895095>
+<https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/>
 
-## Reset branch to HEAD
+# Reset branch to HEAD
 
 ```
 git fetch origin
 git reset --hard origin/master
 ```
 
-https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head
+<https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head>
 
-## Delete branch local and remote
+# Delete branch local and remote
 
 ```
 $ git push --delete <remote_name> <branch_name>
 $ git branch -d <branch_name>
 ```
 
-https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
+<https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely>
 
 # Git stash
 
@@ -49,7 +47,7 @@ git stash pop
 git stash apply
 ```
 
-https://de.atlassian.com/git/tutorials/saving-changes/git-stash
+<https://de.atlassian.com/git/tutorials/saving-changes/git-stash>
 
 # Clean up branches
 
@@ -77,4 +75,3 @@ Further information: <https://erikaybar.name/git-deleting-old-local-branches/>
 `git rebase upstream/master`
 
 <https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository>
-
