@@ -113,7 +113,7 @@ content
 endsnippet
 ```
 
-#### Latex math
+### Latex math snippets
 
 1. `mk`: Inline math
 2. `md`: Displayed math
