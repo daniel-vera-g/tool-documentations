@@ -269,3 +269,30 @@ The default setting that tells your system to clear /tmp at reboot is held in th
 
 <https://askubuntu.com/questions/20783/how-is-the-tmp-directory-cleaned-up>
 
+#  Battery management
+
+> Use TLP and PowerTOP
+
+## PowerTOP
+
+> Manage TLP settings
+
+1. `sudo Powertop --auto-optimize` -> If good, change in `/etc/default/tlp` config file.
+
+### Sources
+
+* <https://www.2daygeek.com/tlp-increase-optimize-linux-laptop-battery-life/ | TLP - An Advanced Power Management Tool That Improve Battery Life On Linux Laptop | 2daygeek.com>
+* <http://tipsonubuntu.com/2018/11/18/quick-tip-improve-battery-life-ubuntu-18-04-higher/ | [Quick Tip] Improve Battery Life in Ubuntu 18.04 / Higher - Tips on Ubuntu>
+* <https://vitux.com/improving-battery-life-in-ubuntu-with-tlp/ | Improving Battery Life in Ubuntu with TLP>
+* <https://askubuntu.com/questions/1078939/ubuntu-18-04-battery-life | power management - Ubuntu 18.04 battery life - Ask Ubuntu>
+* <https://medium.com/@tomwwright/better-battery-life-on-ubuntu-17-10-4588b7f72def | Better Battery Life on Ubuntu 17.10 - Tom Wright - Medium>
+* <https://www.2daygeek.com/powertop-monitors-laptop-battery-usage-linux/ | PowerTOP - Monitors Power Usage and Improve Laptop Battery Life in Linux | 2daygeek.com>
+* <https://www.omgubuntu.co.uk/2019/05/slimbook-battery-optimizer-ubuntu | A Handy Battery Optimizer App for Ubuntu Laptops - OMG! Ubuntu!>
+
+## Navi
+
+> Search for command cheat sheets
+
+1. `navi query <cmd>` to query command
+2. `navi search <cmd>` to search online repositories
+3. `--print` flag to avoid execution of command
