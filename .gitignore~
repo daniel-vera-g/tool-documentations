@@ -2,9 +2,6 @@
 # Node.js-Specific Ignores
 # =========================
 
-# vim
-tags
-
 # Build directory
 public/
 
