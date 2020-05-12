@@ -366,3 +366,7 @@ Alternative
 
 * <https://www.linux-community.de/ausgaben/linuxuser/2016/05/auf-hochglanz-poliert/>
 * <https://german.stackexchange.com/questions/5786/online-schreibstilkorrektur>
+
+# Go to corresponding bracket
+
+> `%`

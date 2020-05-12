@@ -53,3 +53,61 @@ https://github.com/gillescastel/university-setup/tree/master/scripts
 
 > Learn regex to take the most out of vim, shell & co
 
+# TODO in general
+
+* use docker to run latex & completely remove latex from sytsem -> integrate
+devops to latex
+CI/CD for latex = Compile, create PDF, lint, check Spelling, ....
+use docker, vagrant & VM for all big systems that need to be installed(f.ex
+latex, ....)
+Use Devops, ...Mentality for every project
+
+
+set up ci/cd for latex = linting, grammar, code org, indenting....-> Take
+example proffesional ci/cd stuff
+
+----
+
+latex TODO:
+
+tabellen & darstellungen in latex
+Bilder & math.zeichnugen in Latex
+Zeichnungen mithilfe von Programm machen
+links in latex
+nice illustrations in latex
+automatic mathematiclal calculations in latex
+see website from castell latex notes
+set up http for pushing code
+koordinatensysteme, vektoren, ... in latex einfügen...
+use inkscape for mathematical design
+draw mathematical structures fast
+automate everything -> Think in terms of automation & have as a goal to
+automate everything, do as little as possible & keep as much headspace as
+possible
+
+---
+
+1. Tools doc repo issues
+2. latex setup repo issues
+3. CI bookmarks firefox
+
+---
+
+
+be sure to mimmic markdown latex
+latex linter,grammer, vocab, ... ... -> Set up ci/cd...
+learn create snippets
+use Different math environements
+learn & have as goal to automate everything & do anything as efficient as
+possible -> Use math + coding to be more efficient & effective -> Automate!
+foldings in vim ...
+spelling & grammar check
+set up ci/cd:
+    format latex code
+    check spelling and grammar
+    check latex syntax
+    compile & check errors
+    ...
+aim to be as effective s possible at text editing & leave energy to executing & thinking
+review all latex schortcuts & use them more actively to automate more typing -> Automate most of the stuff!
+search for further ultisnips & use them productively in class to write math faster
