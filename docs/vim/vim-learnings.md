@@ -370,3 +370,23 @@ Alternative
 # Go to corresponding bracket
 
 > `%`
+
+# Copy/Paste/Cut
+
+> Use the system clipboard to be able to use buffers system wide
+
+```
+" Copy/Paste/Cut
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
+noremap YY "+y<CR>
+noremap <leader>p "+gP<CR>
+noremap XX "+x<CR>
+```
+
+Use `set clipboard=unnamedplus` to use system clipboard.
+
+References:
+* <https://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim>
+* <https://stackoverflow.com/questions/11489428/how-to-make-vim-paste-from-and-copy-to-systems-clipboard>
