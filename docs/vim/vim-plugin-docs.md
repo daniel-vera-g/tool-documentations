@@ -57,3 +57,32 @@ endsnippet
 <https://yufanlu.net/2016/10/30/ultisnips/>
 <https://jdhao.github.io/2019/04/17/neovim_snippet_s1/>
 <https://castel.dev/post/lecture-notes-1/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav>
+
+### Create snippets
+
+1. Use dynamic snippets with backticks: `...`
+2. Use Python code: `!p...`
+3. Use options like `b` for expanding at the end of the line or `A` to auto expand
+4. Use variables for custom content with: `$1, $2, ...` and `$0` for the last one
+5. Use RegEx to trigger snippets(Use python code)
+6. Use `${VISUAL}` to select text in visual mode and apply snippet
+
+Syntax:
+
+```
+snippet keyword "description" option
+content
+endsnippet
+```
+
+## Use NERDtree
+
+t: Open the selected file in a new tab
+i: Open the selected file in a horizontal split window
+s: Open the selected file in a vertical split window
+I: Toggle hidden files
+m: Show the NERD Tree menu
+R: Refresh the tree, useful if files change outside of Vim
+?: Toggle NERD Tree's quick help
+
+https://medium.com/usevim/nerd-tree-guide-bb22c803dcd2
