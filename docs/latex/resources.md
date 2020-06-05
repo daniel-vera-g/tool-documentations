@@ -51,4 +51,3 @@
 ## Book writing
 
 1. <https://joecmarshall.com/posts/book-writing-environment/>
-
