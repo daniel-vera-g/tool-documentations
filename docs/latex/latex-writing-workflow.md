@@ -21,11 +21,9 @@ lang: en-GB
 6. ctags(Gutentags): tags
 7. Vim Surround: Make easier to add brackets:
 
-`cs + identifier`
-
 ## Vim workflow
 
-1. Completion: Deoplete + Vimtex
+1. Completion: Deoplete/Coc + Vimtex
 2. Snippets:
 
 > Quickly insert environements -> Vim snippets(f.ex fig + tab)
@@ -58,7 +56,7 @@ tse：toggle stared env and no-star env, e.g., change from equation* to equation
 :VimtexClean: clean auxiliary files generated in compliation process.
 ```
 
-6. Live PDF preview with Okular & Vimtex
+6. Live PDF preview with Okular/Zathura & Vimtex
 
 > :VimtexCompile
 
@@ -95,23 +93,6 @@ Move between matching delimiters with %
 
 1. Automate every repetitive keystroke using vim `snippets`(In vim use UltiSnips)
 2. Create course specific snippets and load them on your `.vimrc` though a simlink: `set rtp+=~/current_course`
-
-### Create snippets
-
-1. Use dynamic snippets with backticks: `...`
-2. Use Python code: `!p...`
-3. Use options like `b` for expanding at the end of the line or `A` to auto expand
-4. Use variables for custom content with: `$1, $2, ...` and `$0` for the last one
-5. Use RegEx to trigger snippets(Use python code)
-6. Use `${VISUAL}` to select text in visual mode and apply snippet
-
-Syntax:
-
-```
-snippet keyword "description" option
-content
-endsnippet
-```
 
 ### Latex math snippets
 
