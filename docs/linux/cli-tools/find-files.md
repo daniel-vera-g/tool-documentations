@@ -116,6 +116,19 @@ fd -e flac -x ffmpeg -i {} -c:a libopus {.}.opus
 fd -x wc -l \; -e rs
 ```
 
+## rg/fzf instead of grep
+
+### `rg`
+
+* <https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md>
+
+### `fzf`
+
+* fzf will launch interactive finder, read the list from STDIN, and write the selected item to STDOUT: `find * -type f | fzf > selected`
+* Using the finder
+	* CTRL-J / CTRL-K (or CTRL-N / CTRL-P) to move cursor up & down
+
+
 ## Resources
 
 * <https://stackoverflow.com/questions/7727640/what-are-the-differences-among-grep-awk-sed>
