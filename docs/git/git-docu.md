@@ -87,3 +87,11 @@ Further information: <https://erikaybar.name/git-deleting-old-local-branches/>
 `git rebase upstream/master`
 
 <https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository>
+
+## Copy file from another branch
+
+```bash
+git checkout <commit_hash> <relative_path_to_file_or_dir>
+git checkout <remote_name>/<branch_name> <file_or_dir>
+```
+<https://stackoverflow.com/questions/307579/how-do-i-copy-a-version-of-a-single-file-from-one-git-branch-to-another>
