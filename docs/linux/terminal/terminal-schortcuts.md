@@ -19,7 +19,7 @@ lang: en-GB
 * Ctrl + Left & Ctrl + Right: Hitting Ctrl and the left or right arrow keys jumps between arguments in your command.
 * Ctrl+ U: This clears the entire line
 * Ctrl + K: This deletes the line from the position of the cursor to the end of the line
-* Ctrl + R: This lets you search your command history for something specific. 
+* Ctrl + R: This lets you search your command history for something specific.
 * Meta + W : Delete
 * Meta + F : Word Forward
 * Meta + B : Word Backwards
@@ -32,4 +32,4 @@ lang: en-GB
 * Append Output: >>
 * Pipe contents: |
 * Show File contents: cat
-* Search: Grep + Regx & Search;
+* Search: Grep/Rg + Regex & Search;
