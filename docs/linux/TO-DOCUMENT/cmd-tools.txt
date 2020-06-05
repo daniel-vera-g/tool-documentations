@@ -1,8 +1,0 @@
-fzf, z & exa
-
-grep -> use regular expressions
-awk -> pattern scanning
-sed -> filter & transform text
-test -> check file types and compare values
-xargs -> build & execute commands from standart input
-| -> chain processes
