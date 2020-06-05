@@ -60,3 +60,12 @@ without `-C` compression option the lowest default is used.
 3. <https://wiki.ubuntuusers.de/BorgBackup/>
 4. <https://wiki.hetzner.de/index.php/BorgBackup>
 5. <https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script>
+
+## Full system backup
+
+> Use Clonezilla
+
+<https://www.pcwelt.de/a/backup-und-klonen-mit-clonezilla,2103167>
+<https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/01_Save_disk_image>
+<http://wiki.ubuntu-forum.de/index.php?title=Clonezilla>
+<https://www.giga.de/downloads/ubuntu-os/tipps/ubuntu-image-backup-erstellen-und-wiederherstellen-so-geht-s/>
