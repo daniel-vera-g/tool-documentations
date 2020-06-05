@@ -10,14 +10,10 @@ lang: en-GB
 
 > <https://wiki.ubuntuusers.de/Datensicherung/>
 
-## Duplicity TODO
+Tools:
 
-https://wiki.archlinux.org/index.php/Duplicity | ²Duplicity - ArchWiki
-https://www.digitalocean.com/community/tutorials/how-to-use-duplicity-with-gpg-to-securely-automate-backups-on-ubuntu | ³How To Use Duplicity with GPG to Securely Automate Backups on Ubuntu | DigitalOcean
-https://www.linux-magazin.de/ausgaben/2013/08/duplicity/3/ | ⁴Verschlüsselte Cloudbackups mit Duplicity - Seite 3 von 4
-https://www.redpill-linpro.com/sysadvent/2016/12/23/encrypted-cloud-backups-with-duplicity.html | ⁵Encrypted cloud backups with Duplicity
-https://superuser.com/questions/334124/why-does-duplicity-need-a-secret-key | ⁶gnupg - Why does duplicity need a secret key? - Super User
-https://serverfault.com/questions/806505/why-does-duplicity-need-a-passphrase-for-openpgp-encryption | ⁷pgp - Why does duplicity need a passphrase for OpenPGP encryption? - Server Fault
+1. Duplicity
+2. Borg
 
 ## Borg
 
@@ -57,7 +53,6 @@ In combination with `deja-vu`:
 
 without `-C` compression option the lowest default is used.
 
-
 ## Other Borg resources
 
 1. <https://asciinema.org/a/133292>
@@ -65,4 +60,3 @@ without `-C` compression option the lowest default is used.
 3. <https://wiki.ubuntuusers.de/BorgBackup/>
 4. <https://wiki.hetzner.de/index.php/BorgBackup>
 5. <https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script>
-
