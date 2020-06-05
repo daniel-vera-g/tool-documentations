@@ -26,7 +26,7 @@ lang: en-GB
 1. Completion: Deoplete/Coc + Vimtex
 2. Snippets:
 
-> Quickly insert environements -> Vim snippets(f.ex fig + tab)
+> Quickly insert environments -> Vim snippets(f.ex fig + tab)
 
 3. Auto close environment:
 
@@ -148,6 +148,8 @@ See vim specific documentation file for further spelling and grammar related too
 * Export Zothero resources to desired format(F.ex BibTex) and use them in the Latex document.
 
 ## Resources
+
+> See special resources file: [Resources file](./resources.md)
 
 ### Latex
 
