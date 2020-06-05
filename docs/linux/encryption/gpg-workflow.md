@@ -9,7 +9,7 @@ lang: en-GB
 # GPG workflow
 
 1. Necessary software: `sha256`, `md5sum` & `gpg`
-2. Download checksums & signatures: 
+2. Download checksums & signatures:
 3. Get correct signature key: `gpg --keyid-format long --verify SHA256SUMS.gpg SHA256SUMS`(Optionally import gpg keys to keychain)
 4. Verify the SHA256 checksum `gpg --keyid-format long --verify SHA256SUMS.gpg SHA256SUMS`
 5. Verify download: `sha256sum -c SHA256SUMS 2>&1 | grep OK`
@@ -17,20 +17,20 @@ lang: en-GB
 * <https://tutorials.ubuntu.com/tutorial/tutorial-how-to-verify-ubuntu#6>
 * <https://help.ubuntu.com/community/GnuPrivacyGuardHowto>
 
-# Encrypt
+## Encrypt
 
-## Asymmetric
+### Asymmetric
 
 1. Encrypt: `gpg --output doc.gpg --encrypt --recipient blake@cyb.org doc`
-2. Symmetric: `gpg --output doc --decrypt doc.gpg`
+2. Decrypt: `gpg --output doc --decrypt doc.gpg`
 
-## Symmetric
+### Symmetric
 
 1. `gpg --output doc.gpg --symmetric doc`
 
 <https://www.gnupg.org/gph/en/manual/x110.html>
 
-## Multiple files
+### Multiple files
 
 > For directories first use `tar`(In combination with `xz` compression)
 
