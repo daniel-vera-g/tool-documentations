@@ -14,7 +14,7 @@ Change window numbering of window tmux
 
 `move-window -s x -t y`
 
-## TMUX change default directory
+## tmux change default directory
 
 attach -c /path/to/it/
 
@@ -43,3 +43,26 @@ References:
 ## Show time on tmux
 
 > `Prefix + t`
+
+# Scroll in Tmux
+
+* Ctrl-b then `[` then you can use your normal navigation keys to scroll around (eg. Up Arrow or PgDn)
+* Use vi-mode: `shift + k` or `shift + j`
+* Back in insert through `enter`
+
+<https://superuser.com/questions/209437/how-do-i-scroll-in-tmux>
+
+<!-- # Copy and paste text Tmux
+
+> Alternatively use vim keys outlined in tmux.conf file
+
+1. Enter copy mode: Ctrl-b then `[`
+2. Navigate to the text to be copied
+3. Select by doing: `Space`
+4. End selcting by doing: `Ctrl + W`
+5. Press `Enter` or go to other tmux window
+6. Paste with: `Ctrl+b, ]`
+
+<https://unix.stackexchange.com/questions/58763/copy-text-from-one-tmux-pane-to-another-using-vim>
+<http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting/> -->
+<https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/>
