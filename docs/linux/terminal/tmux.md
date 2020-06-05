@@ -6,23 +6,21 @@ right-header: \today
 lang: en-GB
 ---
 
-# Change Window numbering
+# Tmux
+
+## Change Window numbering
 
 Change window numbering of window tmux
 
 `move-window -s x -t y`
 
-# TMUX change default directory
+## TMUX change default directory
 
 attach -c /path/to/it/
 
 <https://unix.stackexchange.com/questions/268386/how-to-change-default-new-window-directory-from-within-the-tmux>
 
-# TODO
-
-start panes at 0 -> Done?
-
-# Copy text
+## Copy text
 
 > Use tmux buffer to copy text from terminal easily
 
@@ -42,6 +40,6 @@ References:
 * Vim mode: <https://sanctum.geek.nz/arabesque/vi-mode-in-tmux/>
 * <https://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting-ubuntu/>
 
-# Show time on tmux
+## Show time on tmux
 
 > `Prefix + t`
