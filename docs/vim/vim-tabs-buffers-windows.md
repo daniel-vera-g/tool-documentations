@@ -65,15 +65,3 @@ Useful commands:
 ## Sources
 
 * <http://www.miriamtocino.com/articles/vim-buffers-tabs-windows-and-modes>
-
-## Additional Sources TODO
-
-<https://stackoverflow.com/questions/26708822/why-do-vim-experts-prefer-buffers-over-tabs | Why do Vim experts prefer buffers over tabs? - Stack Overflow>
-<http://www.blog.bdauria.com/?p=609 | Tips to Work Efficiently With Buffers in Vim | Bruno d'Auria>
-<https://codeincomplete.com/posts/split-windows-and-tabs-in-vim/ | Split windows and tabs in Vim>
-<https://sanctum.geek.nz/arabesque/buffers-windows-tabs/ | Buffers, windows, and tabs | Arabesque>
-<http://vim.wikia.com/wiki/Using_tab_pages | Using tab pages | Vim Tips Wiki | FANDOM powered by Wikia>
-<http://www.miriamtocino.com/articles/vim-buffers-tabs-windows-and-modes | Miriam Tocino | Vim: Buffers, Tabs, Windows & Modes>
-<https://stackoverflow.com/questions/26708822/why-do-vim-experts-prefer-buffers-over-tabs | Why do Vim experts prefer buffers over tabs? - Stack Overflow>
-<https://feici02.github.io/2017/05/28/buffers-windows-tabs.html | Cheatsheet for Buffers, Windows and Tabs of Vim | feici02’s tidbits>
-<https://www.google.com/search?q=change+panes+and+tabs+vim&oq=change+panes+and+tabs+vim&aqs=chrome..69i57.4782j0j1&sourceid=chrome&ie=UTF-8 | change panes and tabs vim - Google-Suche>
