@@ -36,7 +36,7 @@ find options starting/path expression
 * Traverser all directories in search for the pattern
 
 * The default configuration for find will ignore symbolic links (shortcut files). If you want find to follow and return symbolic links, you can add the -L option to the command, as shown in the example above.
-* find optimizes its filtering strategy to increase performance. Three user-selectable optimization levels are specified as -O1, -O2, and -O3. 
+* find optimizes its filtering strategy to increase performance. Three user-selectable optimization levels are specified as -O1, -O2, and -O3.
 
 #### Use find with grep
 
@@ -46,7 +46,7 @@ Example:
 
 ```bash
 find . -type f -exec grep "example" '{}' \; -print
-```
+```
 
 ### locate
 
@@ -90,7 +90,7 @@ $ awk '{print $2}' file.txt
 # this will print the second column of file.txt
 ```
 
-## Ressources
+## Resources
 
 * <https://stackoverflow.com/questions/7727640/what-are-the-differences-among-grep-awk-sed>
 * <https://superuser.com/questions/199472/what-is-the-difference-between-locate-and-find-in-linux>
