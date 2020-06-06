@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+  pathPrefix: '/tool-documentations',
   siteMetadata: {
     title: 'Grundgesetz',
     sidebarTitle: 'Grundgesetz',
