@@ -1,0 +1,14 @@
+[
+  {
+    "id": "home",
+    "label": "Home",
+    "href": "/",
+    "external": false
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "href": "https://github.com/daniel-vera-g/tool-documentations",
+    "external": true
+  }
+]
