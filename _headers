@@ -1,0 +1,155 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/commons-05126cb38147454f6fa0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-home-tsx-1403f0b0b004ba361f65.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-tsx-bd94db326d4614607690.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-tsx-9df88989cc30c3e1c45f.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-1a0d9a0589735cc38caa.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-45551192cad7d7ec1e83.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/tool-documentations/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-home-tsx-1403f0b0b004ba361f65.js>; rel=preload; as=script
+/tool-documentations/template/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/git/git-docu/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/latex/latex-writing-workflow/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/latex/resources/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/general-linux/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/vim/vim-plugin-docs/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/vim/vim-tabs-buffers-windows/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/backup/duplicity-borg-backup/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/cli-tools/fasd/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/cli-tools/find-files/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/cli-tools/miscellaneous/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/distro/ubuntu/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/encryption/encryption/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/encryption/gpg-workflow/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/shell/bash/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/shell/zsh/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/terminal/terminal-schortcuts/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/linux/terminal/tmux/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/vim/vim-built-in-docs/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-bd94db326d4614607690.js>; rel=preload; as=script
+/tool-documentations/404/
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-pages-404-tsx-9df88989cc30c3e1c45f.js>; rel=preload; as=script
+/tool-documentations/404.html
+  Link: </tool-documentations/webpack-runtime-1a0d9a0589735cc38caa.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-05126cb38147454f6fa0.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-pages-404-tsx-9df88989cc30c3e1c45f.js>; rel=preload; as=script
