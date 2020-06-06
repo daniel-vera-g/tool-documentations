@@ -9,5 +9,5 @@ deploy:
   # script: cd docs/ && yarn install && yarn run deploy
   script: yarn install && yarn run deploy
   skip_cleanup: true
-  # on:
-  #   branch: master
+  on:
+    branch: master
