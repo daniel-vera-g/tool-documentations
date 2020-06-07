@@ -77,12 +77,4 @@ If images needed, add as first line into `./gatsby-config.js` `plugin` array:
 
 ```
     // TODO Currently not needed as no images here
-    // {
-    //   // keep as first gatsby-source-filesystem plugin for gatsby image support
-    //   resolve: 'gatsby-source-filesystem',
-    //   options: {
-    //     path: `${__dirname}/static/img`,
-    //     name: 'uploads'
-    //   }
-    // },
 ```
