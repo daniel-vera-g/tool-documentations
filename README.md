@@ -31,6 +31,14 @@ This site is build with [Gatsby](https://www.gatsbyjs.org) and based on the [Gru
 
 Currently this site uses simple a `travis.yml` script and the `npm deploy` command with `gh-pages` to automatically build the page from master.
 
+## Roadmap/Issues
+
+To see the current status or report some issues/feature requests use the repository issue tracker.
+There you also can see the features/bug-fixes for the next release(Tagged with the next milestone).
+
+1. `v1.0.0` will just be the static site with the working documentation.
+2. For `v1.1.0` a full text search over the whole documentation and a dark theme is planned.
+
 ## Getting Started
 
 ### Prerequisites
