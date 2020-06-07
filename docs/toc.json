@@ -18,8 +18,8 @@
         "title": "Latex writing workflow"
       },
       {
-        "id": "latex-writing-ressources",
-        "slug": "/latex/ressources",
+        "id": "latex-writing-resources",
+        "slug": "/latex/resources",
         "title": "Extensive latex writing ressource list"
       }
     ]
@@ -86,7 +86,7 @@
         "id": "general-linux",
         "slug": "linux/general-linux",
         "title": "General linux docs"
-      },
+      }
     ]
   },
   {
@@ -99,7 +99,7 @@
       },
       {
         "id": "vim-plugin-docs",
-        "slug": "/vim/vim-pluginin-docs",
+        "slug": "/vim/vim-plugin-docs",
         "title": "Vim plugin features"
       },
       {
