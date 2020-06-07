@@ -3,15 +3,15 @@
 module.exports = {
   pathPrefix: '/tool-documentations',
   siteMetadata: {
-    title: 'Grundgesetz',
-    sidebarTitle: 'Grundgesetz',
-    description: 'Zero-configuration documentation builder, powered by Gatsby.',
-    siteUrl: 'https://grundgesetz-skeleton.netlify.com',
-    keywords: 'gatsbyjs, gatsby, documentation, sample project',
+    title: 'Tool documentation',
+    sidebarTitle: 'Tool docs',
+    description: 'Documentation of my currrent tools',
+    siteUrl: 'https://daniel-vera-g.github.io/tool-documentations/',
+    keywords: 'tools, gatsby, documentation, linux',
     author: {
-      name: 'Resi Respati',
-      url: 'https://resir014.xyz',
-      email: 'resi@kata.ai'
+      name: 'Daniel VG',
+      url: 'https://github.com/daniel-vera-g/',
+      email: 'danielveragi@gmail.com'
     }
   },
   plugins: [
