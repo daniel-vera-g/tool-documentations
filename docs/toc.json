@@ -5,7 +5,7 @@
       {
         "id": "git",
         "slug": "git/git-docu",
-        "title": "Git documentation"
+        "title": "Git docs"
       }
     ]
   },
@@ -13,9 +13,14 @@
     "title": "Latex",
     "items": [
       {
-        "id": "latex-writing",
+        "id": "latex-writing-workflow",
         "slug": "/latex/latex-writing-workflow",
         "title": "Latex writing workflow"
+      },
+      {
+        "id": "latex-writing-ressources",
+        "slug": "/latex/ressources",
+        "title": "Extensive latex writing ressource list"
       }
     ]
   },
@@ -28,14 +33,44 @@
         "title": "Backup files with duplicity or borg"
       },
       {
+        "id": "fasd",
+        "slug": "/linux/cli-tools/fasd",
+        "title": "Navigate with fasd"
+      },
+      {
+        "id": "find-files",
+        "slug": "/linux/cli-tools/find-files",
+        "title": "Find files"
+      },
+      {
+        "id": "miscellaneous",
+        "slug": "/linux/cli-tools/miscellaneous",
+        "title": "Miscellaneous cli tools"
+      },
+      {
+        "id": "ubuntu",
+        "slug": "/linux/distro/ubuntu",
+        "title": "Distro notes(Mainly Ubuntu)"
+      },
+      {
         "id": "encryption-overview",
-        "slug": "/linux/encryption/encryption-strategy",
+        "slug": "/linux/encryption/encryption",
         "title": "Linux encryption"
       },
       {
         "id": "encryption-gpg",
         "slug": "/linux/encryption/gpg-workflow",
-        "title": "GPG usage"
+        "title": "GPG workflow and usage"
+      },
+      {
+        "id": "bash",
+        "slug": "/linux/shell/bash",
+        "title": "Bash docs"
+      },
+      {
+        "id": "zsh",
+        "slug": "/linux/shell/zsh",
+        "title": "Zsh docs"
       },
       {
         "id": "terminal-shortcuts",
@@ -44,48 +79,33 @@
       },
       {
         "id": "tmux",
-        "slug": "linux/terminal/tmux-to-learn",
+        "slug": "linux/terminal/tmux",
         "title": "Tmux"
       },
       {
-        "id": "Unix tools",
-        "slug": "linux/unix-tools/find-files",
-        "title": "Find commands"
+        "id": "general-linux",
+        "slug": "linux/general-linux",
+        "title": "General linux docs"
       },
-      {
-        "id": "linux-general",
-        "slug": "/linux/linux-doc",
-        "title": "General linux"
-      },
-      {
-        "id": "zsh",
-        "slug": "/linux/zsh-commands",
-        "title": "ZSH shell"
-      },
-      {
-        "id": "Ubuntu",
-        "slug": "/linux/ubuntu-shortcuts",
-        "title": "Ubuntu docs"
-      }
     ]
   },
   {
     "title": "Vim",
     "items": [
       {
-        "id": "vim-learnings",
-        "slug": "/vim/vim-learning",
-        "title": "Vim learnings"
+        "id": "vim-built-in-docs",
+        "slug": "/vim/vim-built-in-docs",
+        "title": "Vim built in features"
+      },
+      {
+        "id": "vim-plugin-docs",
+        "slug": "/vim/vim-pluginin-docs",
+        "title": "Vim plugin features"
       },
       {
         "id": "Tabs buffers and windows",
         "slug": "/vim/vim-tabs-buffers-windows",
         "title": "Vim tabs, buffers and windows"
-      },
-      {
-        "id": "Vim to learn",
-        "slug": "vim/vim-to-learn",
-        "title": "Stuff to learn on vim"
       }
     ]
   }

@@ -1,9 +1,9 @@
 {
-  "name": "grundgesetz-skeleton",
-  "description": "Zero-configuration documentation builder, powered by Gatsby.",
+  "name": "tool-documentation",
+  "description": "Documentation of my current tools.",
   "version": "1.0.0",
   "private": true,
-  "author": "Resi Respati <resi@kata.ai>",
+  "author": "Daniel VG",
   "keywords": [
     "gatsby"
   ],

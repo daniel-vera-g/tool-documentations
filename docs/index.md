@@ -1,45 +1,36 @@
 ---
 layout: home
 id: index
-title: Welcome to Grundgesetz!
+title: Welcome to my tools documentation!
 ---
 
-Grundgesetz is a skeleton for generating accessible documentation pages built on top of [Gatsby](https://www.gatsbyjs.org). It creates static pages from your Markdown documentation files, all prettily formatted with a easy-to-use layout.
+# Tool docs
 
-Grundgesetz is initially built to solve internal issues in managing documentation for our products at [Kata.ai](https://kata.ai/), but at the same we also found out that it's a good base for quickly deploying a documentation site online, so we put this up for everyone to use.
+This is the home for the documentation about all the tools I use.
+It is mainly a compilation of information gathered from all around the web(Stack Overflow, Blogs, ...).
 
-![Default Grundgesetz homepage](/img/homepage.png)
+I hope you find/learn something interesting here.
 
-## What's with the name?
+## Motivation
 
-It's German for "constitution". We had a thing for German codenames here at Kata.ai.
+The motivation was not having to always look information up, but having a central source of truth.
+Current topics documented are amongst other things:
 
-## Who's using it?
+1. Git related questions.
+2. Latex editing workflows.
+3. Linux cheat sheets, questions and hacks.
+4. Vim principles, hacks and helpers.
 
-- [Kata Platform Documentation](https://docs.kata.ai/)
-- [TinaCMS](https://tinacms.org/docs/getting-started/introduction)
-- [Accelero](https://docs.accelero.io/)
+If you think, that I've forgot to mention some source where I got the information, don't bother to hit me up on [Twitter](https://twitter.com/DVG3012) or simply per mail [danielveragi@gmail.com](mailto:danielveragi@gmail.com).
 
-## Get Started
+## Additional resources
 
-Getting started with Grundgesetz is as easy as 1-2-3! [Follow the documentation](/getting-started/installation), or select from the left drawer for a specific guide that you want to read.
+For additional resources, be sure to check out my [dotfiles](https://github.com/daniel-vera-g/dotfiles/)
 
-## Core Concepts
+## Build with
 
-### Just Your Docs
+This site is build with [Gatsby](https://www.gatsbyjs.org) and based on the [Grundgesetz](https://grundgesetz-skeleton.kata-ai.now.sh/) template.
 
-Grundgesetz is set up for you to get up and running straight away. We know that writing proper documentation often takes a long time, so we aim to create this tool to standardise your documentation format.
+### Deploy
 
-All your docs are written in the familiar Markdown format and go inside the `/docs` folder. You can customise the table of contents and the header menu through a JSON file. It will generate pages with path names based on the directory tree, but you can override it anytime by setting a `permalink` frontmatter.
-
-### Instantly Deployable
-
-Since Grundgesetz is a static site generator, you can instantly deploy to any static web host.
-
-Have an instance of Grundgesetz set up on GitHub? You can easily deploy it using the built-in `deploy` task. You can also set up a continuous deployment pipeline for hosting providers like [Netlify](https://www.netlify.com/) or [ZEIT Now](https://zeit.co/now).
-
-### Blazing Fast
-
-Grundgesetz is built on top of Gatsby, a blazing-fast static site generator for React. Also, putting the words "blazing fast" into any project's README seems to attract a lot of folks lately. So I put it in here. Sorry.
-
-Want to learn more about Gatsby? [Click here](https://www.gatsbyjs.org).
+Currently this site uses simple a `travis.yml` script and the `npm deploy` command with `gh-pages` to automatically build the page from master.
