@@ -70,3 +70,19 @@ The following Markdown frontmatters are provided in each documentation page.
 - `subtitle` - Optional. The subtitle of the page (if any)
 - `prev` - Optional. This contains the `id` of the page that appears on the "Previous Page" navigation item.
 - `next` - Optional. This contains the `id` of the page that appears on the "Next Page" navigation item.
+
+## TODO
+
+If images needed, add as first line into `./gatsby-config.js` `plugin` array:
+
+```
+    // TODO Currently not needed as no images here
+    // {
+    //   // keep as first gatsby-source-filesystem plugin for gatsby image support
+    //   resolve: 'gatsby-source-filesystem',
+    //   options: {
+    //     path: `${__dirname}/static/img`,
+    //     name: 'uploads'
+    //   }
+    // },
+```
