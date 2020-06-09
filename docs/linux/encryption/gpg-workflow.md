@@ -1,12 +1,7 @@
 ---
-title: Git docuementation
-authors: Daniel VG
-left-header: Git
-right-header: \today
-lang: en-GB
+id: gpg-workflow
+title: GPG workflow
 ---
-
-# GPG workflow
 
 1. Necessary software: `sha256`, `md5sum` & `gpg`
 2. Download checksums & signatures:

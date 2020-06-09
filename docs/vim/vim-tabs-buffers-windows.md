@@ -1,12 +1,7 @@
 ---
+id: tabs-buffers-windows
 title: Vim buffer,tabs & windows
-authors: Daniel VG
-left-header: Buffers,tabs & windows
-right-header: \today
-lang: en-GB
 ---
-
-# Vim Buffers, Tabs & Windows
 
 ## Buffers
 

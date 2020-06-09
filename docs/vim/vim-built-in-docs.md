@@ -1,12 +1,7 @@
 ---
-title: Vim learnings
-authors: Daniel VG
-left-header: Vim
-right-header: \today
-lang: en
+id: vim-built-in-docs
+title: Vim built in features
 ---
-
-# Vim learnings
 
 ## Go to definition
 

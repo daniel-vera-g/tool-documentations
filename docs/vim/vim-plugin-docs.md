@@ -1,4 +1,7 @@
-# Vim plugins
+---
+id: vim-plugin-docs
+title: Vim plugin features
+---
 
 ## Use FZF
 

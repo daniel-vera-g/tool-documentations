@@ -103,7 +103,7 @@
         "title": "Vim plugin features"
       },
       {
-        "id": "Tabs buffers and windows",
+        "id": "tabs-buffers-windows",
         "slug": "/vim/vim-tabs-buffers-windows",
         "title": "Vim tabs, buffers and windows"
       }

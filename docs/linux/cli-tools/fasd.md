@@ -1,4 +1,7 @@
-# Fasd
+---
+id: fasd
+title: fasd
+---
 
 ## Use fasd instead of cd
 

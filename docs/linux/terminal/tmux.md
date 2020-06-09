@@ -1,12 +1,7 @@
 ---
+id: tmux
 title: Tmux
-authors: Daniel VG
-left-header: Tmux
-right-header: \today
-lang: en-GB
 ---
-
-# Tmux
 
 ## Change Window numbering
 

@@ -1,4 +1,7 @@
-# Other cli tools
+---
+id: miscellaneous
+title: Other cli tools
+---
 
 ## Rsync
 

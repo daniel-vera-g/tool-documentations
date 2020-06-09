@@ -1,4 +1,7 @@
-# Latex and markdown resources
+---
+id: latex-writing-resources
+title: Latex & markdown writing resources
+---
 
 #### Blog posts
 

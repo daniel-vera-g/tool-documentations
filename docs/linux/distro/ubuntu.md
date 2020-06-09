@@ -1,12 +1,9 @@
 ---
+id: ubuntu
 title: Ubuntu
-authors: Daniel VG
-left-header: Ubuntu
-right-header: \today
-lang: en-GB
 ---
 
-# Ubuntu shortcuts
+## Ubuntu shortcuts
 
 * Super + L or Ctrl + Alt + L: Locks the screen
 * Press Q when alt+tab to quit windows(<https://askubuntu.com/questions/509400/quit-applications-while-switching-with-alt-tab>)
