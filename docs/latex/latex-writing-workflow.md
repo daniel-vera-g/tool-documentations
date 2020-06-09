@@ -1,9 +1,6 @@
 ---
+id: latex-writing-workflow
 title: Latex writing workflow
-authors: Daniel VG
-left-header: Latex writing
-right-header: \today
-lang: en-GB
 ---
 
 ## Tools

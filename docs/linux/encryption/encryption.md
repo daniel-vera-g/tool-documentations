@@ -1,12 +1,7 @@
 ---
-title: Linux encryption strategy
-authors: Daniel VG
-left-header: Encryption plan
-right-header: \today
-lang: en_GB
+id: encryption-overview
+title: Linux encryption tools
 ---
-
-# Encryption
 
 > <https://curius.de/blog/13-betriebssysteme/open-source/324-welche-verschluesselungsloesung-fuer-welchen-einsatzzweck>
 

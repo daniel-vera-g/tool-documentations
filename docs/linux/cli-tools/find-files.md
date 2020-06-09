@@ -1,12 +1,7 @@
 ---
+id: find-files
 title: Unix searching tools
-authors: Daniel VG
-left-header: Unix searching tools
-right-header: \today
-lang: en-GB
 ---
-
-# Find stuff on Linux
 
 ## Search tools
 

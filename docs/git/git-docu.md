@@ -1,12 +1,7 @@
 ---
-title: Git documentation
-authors: Daniel VG
-left-header: Git
-right-header: \today
-lang: en-GB
+id: git
+title: Git docs
 ---
-
-# Git docs
 
 ## Head
 

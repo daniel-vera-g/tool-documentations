@@ -1,12 +1,7 @@
 ---
+id: terminal-shortcuts
 title: Terminal schortcuts
-authors: Daniel VG
-left-header: Schortcuts
-right-header: \today
-lang: en-GB
 ---
-
-# Terminal Schortcuts
 
 ## Navigation
 

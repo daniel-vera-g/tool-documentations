@@ -1,12 +1,7 @@
 ---
-title: Bash/Unix learnings
-authors: Daniel VG
-left-header: Bash
-right-header: \today
-lang: en
+id: general-linux
+title: General linux docs
 ---
-
-# General linux questions
 
 ## Install .tar.* applications
 

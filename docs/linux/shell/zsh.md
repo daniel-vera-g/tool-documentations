@@ -1,12 +1,7 @@
 ---
-title: Zsh
-authors: Daniel VG
-left-header: Zsh
-right-header: \today
-lang: en-GB
+id: zsh
+title: Zsh docs
 ---
-
-# Zsh
 
 # Zsh commands
 

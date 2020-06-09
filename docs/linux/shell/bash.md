@@ -1,4 +1,7 @@
-# Bash
+---
+id: bash
+title: Bash docs
+---
 
 ## When to use {}
 
