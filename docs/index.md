@@ -4,8 +4,6 @@ id: index
 title: Welcome to my tools documentation!
 ---
 
-# Tool docs
-
 This is the home for the documentation about all the tools I use.
 It is mainly a compilation of information gathered from all around the web(Stack Overflow, Blogs, ...).
 
