@@ -1,6 +1,8 @@
 ---
 id: vim-plugin-docs
 title: Vim plugin features
+prev: vim-built-in-docs
+next: vim-tabs-buffers-windows
 ---
 
 ## Use FZF
