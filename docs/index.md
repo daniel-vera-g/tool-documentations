@@ -11,7 +11,7 @@ I hope you find/learn something interesting here.
 
 ## Motivation
 
-The motivation was not having to always look information up, but having a central source of truth.
+It's pretty annoying to always have to look up the same information, therefore this is the try to create a central source of truth for all my personal docs/notes.
 Current topics documented are amongst other things:
 
 1. Git related questions.
@@ -23,7 +23,7 @@ If you think, that I've forgot to mention some source where I got the informatio
 
 ## Additional resources
 
-For additional resources, be sure to check out my [dotfiles](https://github.com/daniel-vera-g/dotfiles/)
+For additional resources, be sure to check out my [dotfiles](https://github.com/daniel-vera-g/dotfiles/)!
 
 ## Build with
 
