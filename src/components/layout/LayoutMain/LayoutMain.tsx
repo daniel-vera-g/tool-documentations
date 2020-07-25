@@ -10,6 +10,7 @@ import { Edge, HeaderMenuItem } from 'interfaces/nodes';
 import { breakpoints, dimensions, colors, textSizes } from 'components/foundations/variables';
 import { isActive } from 'utils/helpers';
 import { determineFontDimensions } from 'components/foundations';
+import { ThemeToggler } from 'gatsby-plugin-dark-mode';
 
 interface LayoutMainInnerProps {
   className?: string;
@@ -127,6 +128,18 @@ const LayoutMain: React.SFC<LayoutMainProps> = ({ children, title, className, he
               })}
           </DocumentationMenu>
         </HeaderInner>
+        <ThemeToggler>
+          {({ theme, toggleTheme }) => (
+            <label>
+              <input
+                type="checkbox"
+                onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
+                checked={theme === 'dark'}
+              />{' '}
+              Dark mode
+            </label>
+          )}
+        </ThemeToggler>
       </Header>
       <SkipNavContent>{children}</SkipNavContent>
     </StyledLayoutMain>
