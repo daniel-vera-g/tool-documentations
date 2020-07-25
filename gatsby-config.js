@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Tool documentation',
     sidebarTitle: 'Tool docs',
-    description: 'Documentation of my currrent tools',
+    description: 'Documentation of my current tools',
     siteUrl: 'https://daniel-vera-g.github.io/tool-documentations/',
     keywords: 'tools, gatsby, documentation, linux',
     author: {
