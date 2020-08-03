@@ -1,6 +1,13 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 import { breakpoints, colors, dimensions, layerIndexes } from 'components/foundations/variables';
+import { createRef, default as React, useState } from "react"
+import { InstantSearch } from "react-instantsearch-dom"
+import { ThemeProvider } from "styled-components"
+import StyledSearchBox from "./styled-search-box"
+import StyledSearchResult from "./styled-search-result"
+import StyledSearchRoot from "./styled-search-root"
+import useClickOutside from "./use-click-outside"
 
 interface HeaderProps {
   navigation?: boolean;
