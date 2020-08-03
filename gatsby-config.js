@@ -15,12 +15,13 @@ module.exports = {
     }
   },
   plugins: [
+    'gatsby-plugin-styled-components',
     {
       resolve: 'gatsby-plugin-algolia-docsearch',
       options: {
         apiKey: '7d02a98f3b5cc6d3550fd26d0239c9ac', // required
         indexName: 'daniel-vera-g_tool-documentations', // required
-        inputSelector: 'algoliaSearch', // required
+        inputSelector: 'SearchInput', // required
         debug: false // (bool) Optional. Default `false`
       }
     },
