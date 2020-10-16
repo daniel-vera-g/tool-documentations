@@ -61,3 +61,10 @@ References:
 <https://unix.stackexchange.com/questions/58763/copy-text-from-one-tmux-pane-to-another-using-vim>
 <http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting/> -->
 <https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/>
+
+# Equally balance tmux split panes
+
+1. select-layout even-vertical: `Ctrl+b, Alt+2`
+2. select-layout even-horizontal: `Ctrl+b, Alt+1`
+
+https://unix.stackexchange.com/questions/32986/how-do-i-equally-balance-tmux1-split-panes
