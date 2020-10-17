@@ -3,6 +3,12 @@ id: vim-built-in-docs
 title: Vim built in features
 ---
 
+## Toggle last used buffer
+
+* Ctrl + 6 to change to the last buffer
+
+https://stackoverflow.com/questions/53664/how-to-effectively-work-with-multiple-files-in-vim
+
 ## Go to definition
 
 * gd will take you to the local declaration.
