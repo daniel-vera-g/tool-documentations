@@ -17,7 +17,7 @@ Current topics documented are amongst other things:
 3. Linux cheat sheets, questions and hacks.
 4. Vim principles, hacks and helpers.
 
-If you think, that I've forgot to mention some source where I got the information, don't bother to hit me up on [Twitter](https://twitter.com/DVG3012) or simply per mail [danielveragi@gmail.com](mailto:danielveragi@gmail.com).
+If you think, that I've forgot to mention some source where I got the information, don't bother to hit me up on [Twitter](https://twitter.com/DVG3012).
 
 ## Additional resources
 
