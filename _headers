@@ -27,12 +27,6 @@
   Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
   Link: </tool-documentations/component---src-templates-home-tsx-1403f0b0b004ba361f65.js>; rel=preload; as=script
-/tool-documentations/template/
-  Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
-  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
-  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
-  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
-  Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
 /tool-documentations/git/git-docu/
   Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
@@ -70,6 +64,12 @@
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
   Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
 /tool-documentations/linux/backup/duplicity-borg-backup/
+  Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
+/tool-documentations/template/
   Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
   Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
