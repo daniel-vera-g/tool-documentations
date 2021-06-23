@@ -56,6 +56,12 @@ git stash apply
 
 <https://de.atlassian.com/git/tutorials/saving-changes/git-stash>
 
+### Stash single folder
+
+> `git stash push -- path/to/folder`
+
+- <https://stackoverflow.com/questions/16434267/how-to-stash-changes-in-current-folder>
+
 ## Clean up branches
 
 1. Check branches to be removed: `git remote prune origin --dry-run`
@@ -89,4 +95,5 @@ Further information: <https://erikaybar.name/git-deleting-old-local-branches/>
 git checkout <commit_hash> <relative_path_to_file_or_dir>
 git checkout <remote_name>/<branch_name> <file_or_dir>
 ```
+
 <https://stackoverflow.com/questions/307579/how-do-i-copy-a-version-of-a-single-file-from-one-git-branch-to-another>
