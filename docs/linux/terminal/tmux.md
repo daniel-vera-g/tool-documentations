@@ -69,3 +69,9 @@ References:
 2. select-layout even-horizontal: `Ctrl+b, Alt+1`
 
 https://unix.stackexchange.com/questions/32986/how-do-i-equally-balance-tmux1-split-panes
+
+# Jump to specific window
+
+> `C-b q`
+
+- <https://unix.stackexchange.com/questions/136631/how-to-switch-directly-to-a-pane-in-tmux>
