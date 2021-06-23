@@ -123,6 +123,12 @@
   Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
   Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
+/tool-documentations/linux/shell/bash/
+  Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
+  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
+  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
+  Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
 /tool-documentations/linux/shell/zsh/
   Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
@@ -136,12 +142,6 @@
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
   Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
 /tool-documentations/linux/terminal/tmux/
-  Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
-  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
-  Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
-  Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
-  Link: </tool-documentations/component---src-templates-page-tsx-ff2c1304b22ae7a67337.js>; rel=preload; as=script
-/tool-documentations/linux/shell/bash/
   Link: </tool-documentations/webpack-runtime-38cb46ada0de8d2d936b.js>; rel=preload; as=script
   Link: </tool-documentations/commons-457c1d8d1d773e2d5eac.js>; rel=preload; as=script
   Link: </tool-documentations/app-45551192cad7d7ec1e83.js>; rel=preload; as=script
